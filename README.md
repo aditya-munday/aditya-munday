@@ -8,7 +8,7 @@
   </picture>
 
 <a href="https://github.com/aditya-munday">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=650&color=39D353&center=true&vCenter=true&width=820&height=46&lines=Quantitative+research+%26+financial+engineering;Low-latency+C%2B%2B+%7C+C+%7C+Rust+%7C+TypeScript;Cloud-native+backend+on+Kubernetes%2C+AWS+%26+Azure;Systems+that+are+deterministic+and+auditable" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=650&color=39D353&center=true&vCenter=true&width=820&height=46&lines=Quantitative+research+%26+financial+engineering;Low-latency+C%2B%2B+%7C+C+%7C+Rust;Backend+engineering+on+AWS+%26+Azure;Deep+systems%2C+memory+%26+performance" alt="Typing animation"/>
 </a>
 
 </div>
@@ -27,7 +27,7 @@
 
 <a href="https://github.com/aditya-munday?tab=followers"><img src="https://img.shields.io/github/followers/aditya-munday?label=Followers&style=for-the-badge&color=39d353&labelColor=0d1117" alt="followers"/></a>
 <a href="https://github.com/aditya-munday?tab=repositories"><img src="https://img.shields.io/badge/Repositories-8-39d353?style=for-the-badge&labelColor=0d1117&logo=github" alt="repos"/></a>
-<img src="https://komarev.com/ghpvc/?username=aditya-munday&style=for-the-badge&color=39d353&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=aditya-munday.readme&left_text=PROFILE%20VIEWS&left_color=0d1117&right_color=39d353" alt="profile views"/>
 
 </div>
 
@@ -42,16 +42,15 @@
 struct Aditya {
     const char* domain    = "Quantitative science & backend engineering";
     const char* mission   = "Turn research into deterministic, auditable systems";
-    const char* langs[]   = { "C++", "C", "Rust", "TypeScript", "Python", "Julia" };
-    const char* cloud[]   = { "Kubernetes", "AWS", "Azure", "Docker" };
+    const char* langs[]   = { "C++", "C", "Rust", "Python", "Julia", "R" };
+    const char* cloud[]   = { "AWS", "Azure", "Docker", "Linux" };
     const char* values[]  = { "correctness", "latency", "reproducibility" };
 };
 ```
 
 I build at the intersection of **quantitative research**, **systems
 engineering**, and **cloud-native backends** — pricing and simulation models in
-C++/Rust, and the production services that serve them on Kubernetes across AWS
-and Azure.
+C++/Rust, and the production services that serve them across AWS and Azure.
 
 Every system I ship is designed to be **deterministic, capability-scoped, and
 auditable**: the model you backtested is the model that runs in production.
@@ -61,7 +60,7 @@ auditable**: the model you backtested is the model that runs in production.
 
 <img src="./stack.gif" width="100%" alt="Animated build &amp; deploy run"/>
 
-*From `cargo build` to a green Kubernetes rollout* —<br/>
+*From `cargo build` to a green production deploy* —<br/>
 deterministic · reproducible · auditable
 
 </td>
@@ -87,7 +86,17 @@ deterministic · reproducible · auditable
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,julia,tensorflow,pytorch,r,latex,postgres,redis,linux&theme=dark" alt="quant stack"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,julia,r,postgres,mysql,linux&theme=dark" alt="quant, scientific &amp; systems stack"/>
+
+</div>
+
+### 🤖 AI, ML &amp; model training
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI &amp; ML stack"/>
+
+<br/><br/>
+<sub>Deep learning · model training · neural networks · scientific computing in Julia &amp; R</sub>
 
 </div>
 
@@ -100,20 +109,24 @@ deterministic · reproducible · auditable
 <tr>
 <td width="50%" valign="top">
 
-**Systems &amp; low-level**
+**Systems, low-level &amp; performance**
 - C / C++17-20 — RAII, templates, SIMD, cache-aware design
 - Rust — ownership, zero-cost abstractions, `no_std`
-- Concurrency, lock-free structures, memory model
-- Linux internals, syscalls, profiling (`perf`, flamegraphs)
+- Linux deep systems — syscalls, kernel interfaces, profiling (`perf`, flamegraphs)
+- Memory &amp; low-level programming — allocators, layout, cache behaviour
+- Performance engineering — hot-loop tuning, latency, benchmarking
+- DSA — algorithmic design &amp; complexity analysis
+- Cybersecurity — hardening, least privilege, threat modelling
 
 </td>
 <td width="50%" valign="top">
 
-**Backend &amp; cloud-native**
-- TypeScript / Node.js — strict ESM, Fastify, Zod, OpenAPI
-- Kubernetes — deployments, services, HPA, operators
+**Backend, cloud &amp; data**
+- Docker — images, multi-stage builds, compose
 - AWS &amp; Azure — compute, storage, IAM, managed data
-- Postgres · Redis · event streams (NDJSON, Kafka-style)
+- PostgreSQL &amp; MySQL — schema design, query tuning
+- Backend testing — unit, integration, API contracts (Java)
+- Shell — automation, tooling, POSIX pipelines
 
 </td>
 </tr>
@@ -122,7 +135,7 @@ deterministic · reproducible · auditable
 ### ☁️ Cloud, containers &amp; data
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kubernetes,aws,azure,docker,terraform,postgres,redis,mongodb,mysql,npm,vite,vitest,electron,githubactions,git,github,vscode,bash&theme=dark" alt="cloud stack"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,postgres,mysql,linux,bash,git,github,vscode,visualstudio,java&theme=dark" alt="cloud, data &amp; tooling"/>
 
 </div>
 
