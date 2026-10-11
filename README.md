@@ -278,7 +278,7 @@ privileged ops itself — it requests them through an explicit allowlist.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1200&pause=350&color=39D353&center=false&vCenter=true&width=900&height=470&lines=%24+whoami;%3E+Aditya+Munday+%E2%80%94+quant+%C2%B7+systems+%C2%B7+backend+engineering;%24+cat+stack.txt;%3E+C%2B%2B+%7C+C+%7C+Rust+%7C+Python+%7C+Julia+%7C+R;%3E+Linux+deep+systems+%C2%B7+memory+%C2%B7+performance+engineering;%3E+AWS+%C2%B7+Azure+%C2%B7+Docker+%C2%B7+PostgreSQL+%C2%B7+MySQL;%3E+AI+%C2%B7+deep+learning+%C2%B7+model+training+%C2%B7+TensorFlow%2FPyTorch;%24+./quant+run+--model+heston;%3E+calibrate+SVI+%C2%B7+simulate+10M+paths+%C2%B7+backtest+sharpe+2.14;%3E+deterministic+run+complete;%24+git+log+--oneline+-3;%3E+one+deterministic+commit+at+a+time" alt="terminal console"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1300&pause=350&color=39D353&center=true&vCenter=true&width=780&height=52&lines=%24+whoami;%3E+Aditya+Munday+%E2%80%94+quant+%C2%B7+systems+%C2%B7+backend;%24+cat+stack.txt;%3E+C%2B%2B+%7C+C+%7C+Rust+%7C+Python+%7C+Julia+%7C+R;%3E+Linux+deep+systems+%C2%B7+memory+%C2%B7+performance;%3E+AWS+%C2%B7+Azure+%C2%B7+Docker+%C2%B7+PostgreSQL+%C2%B7+MySQL;%24+./quant+run+--model+heston;%3E+calibrate+SVI+%C2%B7+simulate+10M+paths+%C2%B7+sharpe+2.14;%3E+deterministic+run+complete" alt="terminal console"/>
 
 <br/>
 <sub><i>A live terminal — type your own commands in the <a href="https://github.com/aditya-munday/aditya-munday/issues/new?title=console&body=%24%20">console issue</a>.</i></sub>
