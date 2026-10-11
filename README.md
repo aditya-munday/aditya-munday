@@ -191,6 +191,7 @@ privileged ops itself — it requests them through an explicit allowlist.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider"/>
 
+<!-- WakaTime card disabled until a username is provided:
 <!-- ═══════════════════ CODING ACTIVITY (WakaTime) ═══════════════════ -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24"/> Coding activity
 
@@ -210,27 +211,23 @@ privileged ops itself — it requests them through an explicit allowlist.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider"/>
 
-<div align="center">
-
-> ⚠️ **Placeholders below** — replace each `YOUR-*` handle with your real profile, or ask me to fill them in.
-> I did not guess automatically: web results showed **two different people** named "Aditya Munday",
-> so I left these blank rather than link the wrong account.
-
-</div>
+-->
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24"/> Connect
 
 <div align="center">
 
-<!-- ✏️ EDIT the href values below with your real profiles -->
 <a href="https://github.com/aditya-munday"><img src="https://img.shields.io/badge/GitHub-aditya--munday-39d353?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
-<a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-@YOUR--HANDLE-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X"/></a>
-<a href="https://leetcode.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode"/></a>
-<a href="https://www.kaggle.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117" alt="Kaggle"/></a>
-<a href="https://codeforces.com/profile/YOUR-HANDLE"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117" alt="Codeforces"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/aditya-munday/"><img src="https://img.shields.io/badge/LinkedIn-aditya--munday-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/aditya-munday/"><img src="https://img.shields.io/badge/LeetCode-aditya--munday-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode"/></a>
+<a href="https://www.geeksforgeeks.org/profile/adityamunday"><img src="https://img.shields.io/badge/GeeksforGeeks-adityamunday-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d1117" alt="GeeksforGeeks"/></a>
+<a href="https://www.instagram.com/adi.vrse/"><img src="https://img.shields.io/badge/Instagram-@adi.vrse-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/></a>
+<a href="https://www.threads.net/@adi.vrse"><img src="https://img.shields.io/badge/Threads-@adi.vrse-000000?style=for-the-badge&logo=threads&logoColor=white&labelColor=0d1117" alt="Threads"/></a>
+<!-- WhatsApp: uncomment and set your number in international format, e.g. wa.me/919999999999
+<a href="https://wa.me/YOUR-NUMBER"><img src="https://img.shields.io/badge/WhatsApp-@adi.vrse-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp"/></a>
+-->
+<a href="mailto:adityamunday@yahoo.com"><img src="https://img.shields.io/badge/Email-adityamunday@yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white&labelColor=0d1117" alt="Email"/></a>
 
 </div>
 
