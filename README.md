@@ -1,7 +1,11 @@
 <!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aditya&fontSize=74&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Quant%20%C2%B7%20Systems%20%C2%B7%20Backend%20Engineering&descAlignY=57&descSize=20" width="100%" alt="Aditya — animated header"/>
+<picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aditya&fontSize=74&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Quant%20%C2%B7%20Systems%20%C2%B7%20Backend%20Engineering&descAlignY=57&descSize=20"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,9&height=220&section=header&text=Aditya&fontSize=74&fontColor=1b1f24&animation=fadeIn&fontAlignY=36&desc=Quant%20%C2%B7%20Systems%20%C2%B7%20Backend%20Engineering&descAlignY=57&descSize=20" width="100%" alt="Aditya — animated header"/>
+  </picture>
 
 <a href="https://github.com/aditya-munday">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=650&color=39D353&center=true&vCenter=true&width=820&height=46&lines=Quantitative+research+%26+financial+engineering;Low-latency+C%2B%2B+%7C+C+%7C+Rust+%7C+TypeScript;Cloud-native+backend+on+Kubernetes%2C+AWS+%26+Azure;Systems+that+are+deterministic+and+auditable" alt="Typing animation"/>
@@ -167,8 +171,16 @@ privileged ops itself — it requests them through an explicit allowlist.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=aditya-munday&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" alt="stats"/>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-munday&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="streak"/>
+<picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api?username=aditya-munday&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aditya-munday&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" alt="stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=aditya-munday&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"/>
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-munday&hide_border=true&theme=default" alt="streak"/>
+  </picture>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya-munday&theme=github_dark" alt="repos per language"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-munday&theme=github_dark" alt="profile summary"/>
@@ -178,6 +190,33 @@ privileged ops itself — it requests them through an explicit allowlist.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider"/>
+
+<!-- ═══════════════════ CODING ACTIVITY (WakaTime) ═══════════════════ -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24"/> Coding activity
+
+<!-- ✏️ Replace WAKATIME-USERNAME below with your WakaTime handle to activate this card -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats.vercel.app/api/wakatime?username=WAKATIME-USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WAKATIME-USERNAME&layout=compact&hide_border=true&theme=default" alt="wakatime"/>
+</picture>
+
+<br/>
+<sub>Weekly breakdown of languages &amp; editors — powered by <a href="https://wakatime.com">WakaTime</a>.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider"/>
+
+<div align="center">
+
+> ⚠️ **Placeholders below** — replace each `YOUR-*` handle with your real profile, or ask me to fill them in.
+> I did not guess automatically: web results showed **two different people** named "Aditya Munday",
+> so I left these blank rather than link the wrong account.
+
+</div>
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24"/> Connect
@@ -208,6 +247,10 @@ privileged ops itself — it requests them through an explicit allowlist.
 
 **Quantitative research &amp; systems engineering — one deterministic commit at a time.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%" alt="footer"/>
+<picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,9&height=150&section=footer" width="100%" alt="footer"/>
+  </picture>
 
 </div>
