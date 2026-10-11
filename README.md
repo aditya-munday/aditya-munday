@@ -59,12 +59,10 @@ auditable**: the model you backtested is the model that runs in production.
 </td>
 <td width="43%" valign="top" align="center">
 
-<img src="./orb.gif" width="210" alt="orb"/>
+<img src="./stack.gif" width="100%" alt="Animated build &amp; deploy run"/>
 
-*CPU-rendered orb, pure Rust* —<br/>
-[`orb`](https://github.com/aditya-munday/orb) · MIT
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-munday&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=10" width="330" alt="top languages"/>
+*From `cargo build` to a green Kubernetes rollout* —<br/>
+deterministic · reproducible · auditable
 
 </td>
 </tr>
@@ -190,28 +188,6 @@ privileged ops itself — it requests them through an explicit allowlist.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider"/>
-
-<!-- WakaTime card disabled until a username is provided:
-<!-- ═══════════════════ CODING ACTIVITY (WakaTime) ═══════════════════ -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24"/> Coding activity
-
-<!-- ✏️ Replace WAKATIME-USERNAME below with your WakaTime handle to activate this card -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api/wakatime?username=WAKATIME-USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WAKATIME-USERNAME&layout=compact&hide_border=true&theme=default" alt="wakatime"/>
-</picture>
-
-<br/>
-<sub>Weekly breakdown of languages &amp; editors — powered by <a href="https://wakatime.com">WakaTime</a>.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider"/>
-
--->
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24"/> Connect
