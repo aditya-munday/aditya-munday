@@ -109,7 +109,7 @@ deterministic · reproducible · auditable
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI &amp; ML stack"/>
 
 <br/><br/>
-<sub>Deep learning · model training · neural networks · scientific computing in Julia &amp; R</sub>
+<sub>Deep learning &amp; model training — backpropagation from scratch, optimisers (SGD / Adam), regularisation &amp; normalisation, CNNs &amp; transformers, GPU training loops, hyperparameter search, evaluation metrics · scientific computing in Julia &amp; R</sub>
 
 </div>
 </details>
@@ -125,24 +125,26 @@ deterministic · reproducible · auditable
 <td width="50%" valign="top">
 
 **Systems, low-level &amp; performance**
-- C / C++17-20 — RAII, templates, SIMD, cache-aware design
-- Rust — ownership, zero-cost abstractions, `no_std`
-- Linux deep systems — syscalls, kernel interfaces, profiling (`perf`, flamegraphs)
-- Memory &amp; low-level programming — allocators, layout, cache behaviour
-- Performance engineering — hot-loop tuning, latency, benchmarking
-- DSA — algorithmic design &amp; complexity analysis
-- Cybersecurity — hardening, least privilege, threat modelling
+- C / C++17–20 — RAII &amp; move semantics, templates / `constexpr`, SIMD intrinsics, cache-line alignment, branch prediction
+- Rust — borrow checker &amp; lifetimes, `no_std`, zero-cost abstractions, unsafe FFI, atomics &amp; memory ordering
+- Linux deep systems — syscalls, `io_uring` / `epoll`, namespaces &amp; cgroups, eBPF, page cache, `perf` / `ftrace`
+- Memory &amp; low-level — custom allocators &amp; arenas, virtual memory &amp; TLB, huge pages, false sharing, cache coherence
+- Performance engineering — roofline thinking, p50/p99/p999 latency, microbenchmarks, vectorisation, lock contention
+- DSA — amortised analysis, segment trees / tries / suffix arrays, graph &amp; DP algorithms, cache-aware design
+- Cybersecurity — threat modelling (STRIDE), memory-safety hardening, seccomp sandboxing, fuzzing (ASan / UBSan / MSan)
 
 </td>
 <td width="50%" valign="top">
 
 **Backend, cloud &amp; data**
-- Docker — images, multi-stage builds, compose
-- AWS &amp; Azure — compute, storage, IAM, managed data
-- PostgreSQL &amp; MySQL — schema design, query tuning
-- Backend testing — unit, integration, API contracts (Java)
-- Shell — automation, tooling, POSIX pipelines
-- Git &amp; GitHub — branching, reviews, CI
+- Docker — multi-stage &amp; distroless images, BuildKit caching, rootless containers, Compose
+- AWS — EC2 / ECS / Fargate, S3 lifecycle &amp; storage classes, Lambda, RDS, IAM policy design, CloudWatch
+- Azure — VMs / AKS-adjacent compute, Blob Storage, Functions, Entra ID, ARM / Bicep
+- PostgreSQL — MVCC &amp; isolation levels, `EXPLAIN ANALYZE`, index strategy (partial / covering / GIN), partitioning
+- MySQL — InnoDB internals, replication &amp; binlog, query-plan tuning, schema normalisation trade-offs
+- Backend testing — unit / integration / contract testing, property-based tests, load &amp; fault-injection (Java + JUnit)
+- Shell — POSIX pipelines, `awk` / `sed` text processing, process control &amp; job management, scripting for ops
+- Git &amp; GitHub — rebase &amp; history surgery, bisect, signed commits, PR review, Actions CI/CD
 
 </td>
 </tr>
