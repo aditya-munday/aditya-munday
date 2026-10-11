@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="https://github.com/aditya-munday">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=39D353&center=true&vCenter=true&width=760&height=44&lines=Crafting+an+AI-native+Linux+OS;Building+a+local-first+AI+coding+agent;Writing+Rust+with+zero+GIL%2C+zero+excuses;Shipping+the+Directioner+ecosystem" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=39D353&center=true&vCenter=true&width=760&height=44&lines=Crafting+an+AI-native+Linux+OS;Building+a+local-first+AI+coding+agent;Writing+Rust+that+runs+anywhere%2C+headless;Shipping+the+Directioner+ecosystem" alt="Typing animation"/>
 </a>
 
 </div>
